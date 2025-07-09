@@ -15,6 +15,7 @@
 ⚠️ This project is for educational and learning purposes only. It does not include any backend, interactivity, or real e-commerce functionality.
 
 🛠️ Built With
+
 HTML
 
 CSS
