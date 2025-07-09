@@ -36,7 +36,9 @@ Click here to see live
 (You can deploy on GitHub Pages, Netlify, or Vercel and update this link.)
 
 📢 Author
+
 Arth Shah
+
 GitHub: @Arth-kartikbhai-shah
 
 
