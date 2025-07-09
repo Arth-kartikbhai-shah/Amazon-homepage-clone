@@ -1,4 +1,5 @@
 🚀 Features
+
 🖥️ Responsive layout (desktop/tablet/mobile)
 
 🔍 Search bar design with icon
